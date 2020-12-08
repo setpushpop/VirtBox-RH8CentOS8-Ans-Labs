@@ -2,6 +2,8 @@
 
 Local VirtualBox, AWS, GCP Ansible cluster
 
+[ At the moment these are only Bash scripts that help me manage my VMs. My Ansible commands, .yml files, and Playbooks will be uploaded later. ]
+
 This small project is to simply automate all aspects of an Ansible based cluster that will ultimately serve any general full stack service.
 
 It's my pet project and it's a playground to allow me to grow any minimal DevOps skillset by simply making all components of a cluster managed with Ansible.
