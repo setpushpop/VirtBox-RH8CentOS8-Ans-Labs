@@ -1,0 +1,7 @@
+rh8-ansible-master01
+rh8-server-dns01
+rh8-server-dns02
+rh8-server-a
+rh8-server-b
+centos8-server-c
+centos8-server-d
